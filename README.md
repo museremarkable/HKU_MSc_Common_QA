@@ -15,6 +15,8 @@
     - project期间无法在香港实习，学院不会出示nol。远程实习和内地实习不在范围内。
 * workshop
     - 做完workshop才能做project。
+* 选课参考
+    ![fdc7bbd987276ae1fb2990d7e3bb3b2](https://user-images.githubusercontent.com/39211825/146537909-135dd977-d76b-40c7-9710-ebf271137e79.jpg)
 
 ## 实习相关
 * 如果打算一年半毕业，除了summer intern，学院不会出示nol，无法实习。
